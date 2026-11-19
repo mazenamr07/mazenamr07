@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="242" viewBox="0 0 1200 242" role="img" aria-label="Mazen Amr — Computer Science Student and Developer">
+  <rect width="1200" height="242" fill="#08070d"/>
+  <g fill="none" stroke="#6a507b" stroke-width="2" shape-rendering="crispEdges">
+    <path d="M20 26 V12 H1180 V26 M20 216 V230 H1180 V216"/>
+    <path d="M32 37 V27 H42 M1158 27 H1168 V37 M32 205 V215 H42 M1158 215 H1168 V205"/>
+  </g>
+  <g fill="#846496" shape-rendering="crispEdges">
+    <path d="M96 56 h5 v-9 h5 v9 h5 v5 h-5 v9 h-5 v-9 h-5z"/>
+    <path d="M1082 168 h5 v-9 h5 v9 h5 v5 h-5 v9 h-5 v-9 h-5z"/>
+    <rect x="58" y="117" width="8" height="8"/><rect x="1134" y="117" width="8" height="8"/>
+  </g>
+  <text x="600" y="67" text-anchor="middle" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" letter-spacing="4" fill="#9e82af">// THE DEVELOPER BEHIND THE CODE</text>
+  <text x="600" y="147" text-anchor="middle" font-family="DejaVu Sans Mono, Consolas, monospace" font-weight="bold" font-size="80" letter-spacing="7" fill="#e7d5ee">MAZEN AMR</text>
+  <path d="M344 172 H484 M716 172 H856" stroke="#86609b" stroke-width="3" shape-rendering="crispEdges"/>
+  <rect x="594" y="168" width="12" height="12" fill="#b492cc" transform="rotate(45 600 174)"/>
+  <text x="600" y="214" text-anchor="middle" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="22" letter-spacing="1" fill="#ac98bd">Computer Science · Cairo University · Building with curiosity</text>
+</svg>
