@@ -11,14 +11,13 @@
 
 ### ✦ A little about me
 
-Hey, I'm **Mazen**, a Computer Science student at **Cairo University**. I enjoy understanding how things work behind the scenes, solving problems, and building software that puts those ideas into practice.
+Hey, I'm **Mazen**, a Computer Science senior student at **Cairo University**. I enjoy understanding how things work behind the scenes, solving problems, and building software that puts those ideas into practice.
 
 My interests span **C++, Python, algorithms, and web development**. I've also completed a **Front-End Development diploma at Route IT Training Center**, and my technical customer support experience has strengthened how I approach problems and communicate solutions.
 
 - 🎓 **University:** Faculty of Computers and Artificial Intelligence, Cairo University
 - 🧠 **Interests:** Data structures, algorithms, software design, and optimization
 - 🛠️ **Focus:** Learning by building, testing, and improving real projects
-- 📍 **Based in:** Egypt
 
 ---
 
